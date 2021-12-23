@@ -4,6 +4,8 @@ public class TC_002 {
 
     //work 2 completed
 
+    //added part 3 as requested
+
     //tet case finished
 
 }
